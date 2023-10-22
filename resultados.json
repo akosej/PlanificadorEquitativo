@@ -1,0 +1,188 @@
+[
+    {
+        "Fecha": "01/11/2023",
+        "DiaDeLaSemana": "Wednesday",
+        "PersonaGrupo1": "G1_Persona5",
+        "PersonaGrupo2": "G2_Persona1"
+    },
+    {
+        "Fecha": "02/11/2023",
+        "DiaDeLaSemana": "Thursday",
+        "PersonaGrupo1": "G1_Persona4",
+        "PersonaGrupo2": "G2_Persona3"
+    },
+    {
+        "Fecha": "03/11/2023",
+        "DiaDeLaSemana": "Friday",
+        "PersonaGrupo1": "G1_Persona2",
+        "PersonaGrupo2": "G2_Persona4"
+    },
+    {
+        "Fecha": "04/11/2023",
+        "DiaDeLaSemana": "Saturday",
+        "PersonaGrupo1": "G1_Persona1",
+        "PersonaGrupo2": "G2_Persona2"
+    },
+    {
+        "Fecha": "05/11/2023",
+        "DiaDeLaSemana": "Sunday",
+        "PersonaGrupo1": "G1_Persona5",
+        "PersonaGrupo2": "G2_Persona1"
+    },
+    {
+        "Fecha": "06/11/2023",
+        "DiaDeLaSemana": "Monday",
+        "PersonaGrupo1": "G1_Persona3",
+        "PersonaGrupo2": "G2_Persona3"
+    },
+    {
+        "Fecha": "07/11/2023",
+        "DiaDeLaSemana": "Tuesday",
+        "PersonaGrupo1": "G1_Persona4",
+        "PersonaGrupo2": "G2_Persona4"
+    },
+    {
+        "Fecha": "08/11/2023",
+        "DiaDeLaSemana": "Wednesday",
+        "PersonaGrupo1": "G1_Persona2",
+        "PersonaGrupo2": "G2_Persona5"
+    },
+    {
+        "Fecha": "09/11/2023",
+        "DiaDeLaSemana": "Thursday",
+        "PersonaGrupo1": "G1_Persona1",
+        "PersonaGrupo2": "G2_Persona2"
+    },
+    {
+        "Fecha": "10/11/2023",
+        "DiaDeLaSemana": "Friday",
+        "PersonaGrupo1": "G1_Persona5",
+        "PersonaGrupo2": "G2_Persona3"
+    },
+    {
+        "Fecha": "11/11/2023",
+        "DiaDeLaSemana": "Saturday",
+        "PersonaGrupo1": "G1_Persona3",
+        "PersonaGrupo2": "G2_Persona1"
+    },
+    {
+        "Fecha": "12/11/2023",
+        "DiaDeLaSemana": "Sunday",
+        "PersonaGrupo1": "G1_Persona2",
+        "PersonaGrupo2": "G2_Persona5"
+    },
+    {
+        "Fecha": "13/11/2023",
+        "DiaDeLaSemana": "Monday",
+        "PersonaGrupo1": "G1_Persona4",
+        "PersonaGrupo2": "G2_Persona4"
+    },
+    {
+        "Fecha": "14/11/2023",
+        "DiaDeLaSemana": "Tuesday",
+        "PersonaGrupo1": "G1_Persona1",
+        "PersonaGrupo2": "G2_Persona3"
+    },
+    {
+        "Fecha": "15/11/2023",
+        "DiaDeLaSemana": "Wednesday",
+        "PersonaGrupo1": "G1_Persona5",
+        "PersonaGrupo2": "G2_Persona1"
+    },
+    {
+        "Fecha": "16/11/2023",
+        "DiaDeLaSemana": "Thursday",
+        "PersonaGrupo1": "G1_Persona2",
+        "PersonaGrupo2": "G2_Persona5"
+    },
+    {
+        "Fecha": "17/11/2023",
+        "DiaDeLaSemana": "Friday",
+        "PersonaGrupo1": "G1_Persona4",
+        "PersonaGrupo2": "G2_Persona2"
+    },
+    {
+        "Fecha": "18/11/2023",
+        "DiaDeLaSemana": "Saturday",
+        "PersonaGrupo1": "G1_Persona1",
+        "PersonaGrupo2": "G2_Persona3"
+    },
+    {
+        "Fecha": "19/11/2023",
+        "DiaDeLaSemana": "Sunday",
+        "PersonaGrupo1": "G1_Persona5",
+        "PersonaGrupo2": "G2_Persona1"
+    },
+    {
+        "Fecha": "20/11/2023",
+        "DiaDeLaSemana": "Monday",
+        "PersonaGrupo1": "G1_Persona3",
+        "PersonaGrupo2": "G2_Persona5"
+    },
+    {
+        "Fecha": "21/11/2023",
+        "DiaDeLaSemana": "Tuesday",
+        "PersonaGrupo1": "G1_Persona4",
+        "PersonaGrupo2": "G2_Persona2"
+    },
+    {
+        "Fecha": "22/11/2023",
+        "DiaDeLaSemana": "Wednesday",
+        "PersonaGrupo1": "G1_Persona2",
+        "PersonaGrupo2": "G2_Persona3"
+    },
+    {
+        "Fecha": "23/11/2023",
+        "DiaDeLaSemana": "Thursday",
+        "PersonaGrupo1": "G1_Persona1",
+        "PersonaGrupo2": "G2_Persona1"
+    },
+    {
+        "Fecha": "24/11/2023",
+        "DiaDeLaSemana": "Friday",
+        "PersonaGrupo1": "G1_Persona5",
+        "PersonaGrupo2": "G2_Persona4"
+    },
+    {
+        "Fecha": "25/11/2023",
+        "DiaDeLaSemana": "Saturday",
+        "PersonaGrupo1": "G1_Persona4",
+        "PersonaGrupo2": "G2_Persona2"
+    },
+    {
+        "Fecha": "26/11/2023",
+        "DiaDeLaSemana": "Sunday",
+        "PersonaGrupo1": "G1_Persona2",
+        "PersonaGrupo2": "G2_Persona5"
+    },
+    {
+        "Fecha": "27/11/2023",
+        "DiaDeLaSemana": "Monday",
+        "PersonaGrupo1": "",
+        "PersonaGrupo2": ""
+    },
+    {
+        "Fecha": "28/11/2023",
+        "DiaDeLaSemana": "Tuesday",
+        "PersonaGrupo1": "G1_Persona1",
+        "PersonaGrupo2": "G2_Persona4"
+    },
+    {
+        "Fecha": "29/11/2023",
+        "DiaDeLaSemana": "Wednesday",
+        "PersonaGrupo1": "G1_Persona3",
+        "PersonaGrupo2": "G2_Persona2"
+    },
+    {
+        "Fecha": "30/11/2023",
+        "DiaDeLaSemana": "Thursday",
+        "PersonaGrupo1": "",
+        "PersonaGrupo2": ""
+    },
+    {
+        "Fecha": "01/12/2023",
+        "DiaDeLaSemana": "Friday",
+        "PersonaGrupo1": "",
+        "PersonaGrupo2": ""
+    }
+]

@@ -1,0 +1,27 @@
+{
+    "fechaInicial": "01/11/2023",
+    "grupo1": [
+        "G1_Persona1",
+        "G1_Persona2",
+        "G1_Persona3",
+        "G1_Persona4",
+        "G1_Persona5"
+    ],
+    "grupo2": [
+        "G2_Persona1",
+        "G2_Persona2",
+        "G2_Persona3",
+        "G2_Persona4",
+        "G2_Persona5"
+    ],
+    "guardiasDeseadas": 6,
+    "afectacionesPorPersona": {
+        "G1_Persona1": [
+            "03/11/2023",
+            "11/11/2023"
+        ],
+        "G2_Persona2": [
+            "05/11/2023"
+        ]
+    }
+}

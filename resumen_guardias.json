@@ -1,0 +1,18 @@
+{
+    "Grupo1": {
+        "": 0,
+        "G1_Persona1": 6,
+        "G1_Persona2": 6,
+        "G1_Persona3": 4,
+        "G1_Persona4": 6,
+        "G1_Persona5": 6
+    },
+    "Grupo2": {
+        "": 0,
+        "G2_Persona1": 6,
+        "G2_Persona2": 6,
+        "G2_Persona3": 6,
+        "G2_Persona4": 5,
+        "G2_Persona5": 5
+    }
+}
