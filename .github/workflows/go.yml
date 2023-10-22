@@ -9,10 +9,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check Out Code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Set up Go
-        uses: actions/setup-go@v2
+        uses: actions/setup-go@v3
         with:
           go-version: '1.20' # Utiliza una versión más reciente de Go, como '1.17' o '1.16'
 
@@ -21,22 +21,24 @@ jobs:
         working-directory: ./
 
       - name: Upload Linux PlanificadorEquitativo
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: PlanificadorEquitativo
           path: ./PlanificadorEquitativo
-
+          args: release --rm-dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   build-windows:
     runs-on: windows-latest
     steps:
       - name: Check Out Code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Set up Go
-        uses: actions/setup-go@v2
+        uses: actions/setup-go@v3
         with:
           go-version: '1.20' # Utiliza una versión más reciente de Go, como '1.17' o '1.16'
-
+        
       - name: Build for Windows
         run: |
           $env:GOOS="windows"
@@ -45,7 +47,11 @@ jobs:
         working-directory: ./
 
       - name: Upload Windows PlanificadorEquitativo
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: PlanificadorEquitativo
           path: ./PlanificadorEquitativo.exe
+ 
+          args: release --rm-dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
